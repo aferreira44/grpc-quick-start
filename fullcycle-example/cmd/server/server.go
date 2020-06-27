@@ -6,8 +6,8 @@ import (
 
 	"google.golang.org/grpc/reflection"
 
-	"github.com/aferreira44/grpc-quick-start/fullcycle-example/pb"
-	"github.com/aferreira44/grpc-quick-start/fullcycle-example/servers"
+	"github.com/aferreira44/grpc-quick-start/pb"
+	"github.com/aferreira44/grpc-quick-start/servers"
 	"google.golang.org/grpc"
 )
 

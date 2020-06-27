@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/aferreira44/grpc-quick-start/fullcycle-example/pb"
+	"github.com/aferreira44/grpc-quick-start/pb"
 )
 
 // Math is sfkglakld lkslkgjasldkfj kasjdlfk jlaskjdflk jaskdj

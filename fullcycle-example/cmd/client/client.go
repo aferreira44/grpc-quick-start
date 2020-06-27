@@ -5,7 +5,7 @@ import (
 	"io"
 	"log"
 
-	"github.com/aferreira44/grpc-quick-start/fullcycle-example/pb"
+	"github.com/aferreira44/grpc-quick-start/pb"
 
 	"google.golang.org/grpc"
 )

@@ -1,4 +1,4 @@
-module github.com/aferreira44/grpc-quick-start/fullcycle-example/
+module github.com/aferreira44/grpc-quick-start
 
 go 1.14
 
